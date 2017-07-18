@@ -15,6 +15,12 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/.idea\/gravity-forms-reset-css.iml": {
 		"ft": 8192,
 		"oA": 2,
@@ -37,6 +43,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.idea\/workspace.xml",
+		"oF": 0
+		},
+	"\/.sass-cache\/8303016c4621a4d7ae42c6a69bb0ebcb0a3b95f1\/_mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/.sass-cache\/8303016c4621a4d7ae42c6a69bb0ebcb0a3b95f1\/_mixins.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/8303016c4621a4d7ae42c6a69bb0ebcb0a3b95f1\/gforms.scssc": {

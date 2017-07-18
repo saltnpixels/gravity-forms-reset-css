@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46695b4d-152b-4252-a9b3-8dda35baf352" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_mixins.scss" />
-    </list>
+    <list default="true" id="46695b4d-152b-4252-a9b3-8dda35baf352" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gforms.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gforms.scss">
+      <file leaf-file-name="gforms.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gforms.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6984">
-              <caret line="291" column="1" lean-forward="false" selection-start-line="291" selection-start-column="1" selection-end-line="291" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +76,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="gravity-forms-reset-css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gravity-forms-reset-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gravity-forms-reset-css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gforms.scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -177,12 +188,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500403047760</updated>
-      <workItem from="1500403048933" duration="277000" />
+      <workItem from="1500403048933" duration="504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277000" />
+    <option name="totallyTimeSpent" value="504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -230,8 +241,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gforms.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6984">
-          <caret line="291" column="1" lean-forward="false" selection-start-line="291" selection-start-column="1" selection-end-line="291" selection-end-column="1" />
+        <state relative-caret-position="206">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding>
+            <marker date="1500403393000" expanded="true" signature="0:138" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="158:315" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="569:634" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="637:818" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="849:934" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="1109:1132" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="1148:1184" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="1188:1351" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="1372:1404" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="1407:1590" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="1663:1727" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="1854:2442" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2112:2138" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2155:2180" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2259:2310" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2368:2440" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2563:2784" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2696:2723" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2746:2782" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="2786:2937" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="2985:3021" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3061:3104" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3106:3248" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="3310:3381" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3406:3593" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3417:3455" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3461:3527" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3537:3590" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3613:3675" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3677:3824" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="3859:3877" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3898:3937" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="3982:4011" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4031:4062" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4064:4215" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="4238:4282" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4306:4330" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4349:4600" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4629:4682" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4807:4896" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4932:4953" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="4985:5025" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5061:5126" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5094:5124" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5203:5457" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5563:6187" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5594:5811" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5668:5721" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5754:5807" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5864:6088" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="5943:5997" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="6030:6084" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="6189:6340" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="6359:6469" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="6485:6577" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="6599:6668" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="6670:6829" ph="/*...*/" />
+            <marker date="1500403393000" expanded="true" signature="6873:7131" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7018:7129" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7150:7178" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7224:7262" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7286:7537" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7560:7585" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7628:8115" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7863:7887" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="7899:8113" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8137:8263" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8201:8261" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8285:8339" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8362:8427" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8447:8638" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8664:8748" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8785:8809" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8835:8871" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8908:8933" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="8979:9203" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="9247:10032" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10074:10100" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10143:10509" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10557:10601" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10659:10680" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10737:10759" ph="{...}" />
+            <marker date="1500403393000" expanded="true" signature="10816:10855" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gforms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
