@@ -1,0 +1,6 @@
+// Rem output with px fallback
+@mixin gf-font-size($sizeValue: 1) {
+  font-size: ($sizeValue * 20) * 1px;
+  font-size: $sizeValue * 1rem;
+}
+
