@@ -8,3 +8,8 @@ The styles are simplistic and give you nice forms that look good on desktop and 
 
 To use just disbale the css output for gravity forms via gravityforms>settings
 Then add the css or scss file to your theme.
+
+## Extra info:
+
+You can use the class separate-fields on a complex field such as first name and last name fields.
+This will separate the fields out onto separate lines.
